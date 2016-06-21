@@ -65,7 +65,7 @@ Instead of HTML5 validations, have the program report any values that are out of
 
 ####Hints
 Some valuable methods for this project
-[JavaScript for Statement](http://www.w3schools.com/jsref/jsref_for.asp)
-[JavaScript String split&#40;&#41; Method](http://www.w3schools.com/jsref/jsref_split.asp)
-[JavaScript Array concat&#40;&#41; Method](http://www.w3schools.com/jsref/jsref_concat_array.asp)
-[JavaScript Array join&#40;&#41; Method](http://www.w3schools.com/jsref/jsref_join.asp)
+ 1. [JavaScript for Statement](http://www.w3schools.com/jsref/jsref_for.asp)
+ 2. [JavaScript String split&#40;&#41; Method](http://www.w3schools.com/jsref/jsref_split.asp)
+ 3. [JavaScript Array concat&#40;&#41; Method](http://www.w3schools.com/jsref/jsref_concat_array.asp)
+ 4. [JavaScript Array join&#40;&#41; Method](http://www.w3schools.com/jsref/jsref_join.asp)
